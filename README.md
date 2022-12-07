@@ -1,6 +1,6 @@
 # Intermediate-Statistics-Final-Project
 
-Here is my work for a final project in Intermediate Statistics. In my wprk I dentify the statistic to be ran, i test the appropriate assumptions, and I State the conclusion. I preform a One-Way ANOVA, One proportion ztest, Two proportion ztest, and an Independent Chi-Square.
+Here is my work for a final project in Intermediate Statistics. In my work I identify the statistic to be ran, test the appropriate assumptions, and I State the conclusion. I preform a One-Way ANOVA, One proportion ztest, Two proportion ztest, and an Independent Chi-Square.
 
 Scenario 1
 Fawn is a private investigator. She has taken a job for an insurance company. The insurance company has been paying out large amounts of money for workman’s comp claims, and they believe some of those claims are fraudulent. The insurance company wants Fawn and her associates to run surveillance to determine if the rate of fraud is higher than what the industry normally reports. Specifically, they want to know if the incidence of fraud among claimants is more than 16%.
